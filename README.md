@@ -4,10 +4,10 @@
 
 The model was tested on test data(Which is 30% of total data). The final test results for training the model for 500 epochs(as mentioned in the paper) are:
 
-* Accuracy - 92.7%
-* Precision - 58.4%
-* Recall - 71.1%
-* F1-Score - 64.2%
+* Accuracy -  94.6%
+* Precision - 68.4%
+* Recall -    73.03%
+* F1-Score -  70.06%
 
 # Conclusions from the experiment
 
