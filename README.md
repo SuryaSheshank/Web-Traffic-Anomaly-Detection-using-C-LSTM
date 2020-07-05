@@ -19,13 +19,7 @@ The model was tested on test data(Which is 30% of total data). The final test re
 
 # Instructions to run
 
-*It is assumed that you have a working copy of Conda installed*
- Open up the terminal and type:
- ```
- git clone https://github.com/SuryaSheshank/Web-Traffic-Anomaly-Detection-using-C-LSTM.git
- cd Web-Traffic-Anomaly-Detection-using-C-LSTM
- jupyter notebook
-```
-Open up 'CLSTM.ipynb' and set path of the dataset directory to import all the files.
+Paste the link https://github.com/SuryaSheshank/Web-Traffic-Anomaly-Detection-using-C-LSTM in Google Collab as a GitHub repository
+Open up 'CLSTM.ipynb' 
 
 You can keep track of training the model through 'accuracy' metrics and if you dont want that just comment the 'Metrics' in model.fit() method.
