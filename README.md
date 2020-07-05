@@ -1,6 +1,6 @@
 # Web-Traffic-Anomaly-Detection-using-C-LSTM
   * This repository contains code to implement the research paper which closely simulate those run by Tae-Young kim,Sung-Bae Cho. The research paper can be found [here.]  (http://sclab.yonsei.ac.kr/publications/Papers/IJ/2018_ESWA_TYK.pdf)
-  * This yahoo s5 dataset has been borrowed from this link https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data
+  * This Yahoo S5 dataset has been borrowed from this link https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data
 
 The model was tested on test data(Which is 30% of total data). The final test results for training the model for 500 epochs(as mentioned in the paper) are:
 
