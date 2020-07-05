@@ -19,7 +19,7 @@ The model was tested on test data(Which is 30% of total data). The final test re
 
 # Instructions to run
 
-Paste the link https://github.com/SuryaSheshank/Web-Traffic-Anomaly-Detection-using-C-LSTM in Google Collab as a GitHub repository
-Open up 'CLSTM.ipynb' 
+* Paste the link https://github.com/SuryaSheshank/Web-Traffic-Anomaly-Detection-using-C-LSTM in Google Collab as a GitHub repository
+* Open up 'CLSTM.ipynb' 
 
 You can keep track of training the model through 'accuracy' metrics and if you dont want that just comment the 'Metrics' in model.fit() method.
